@@ -1,0 +1,34 @@
+name: saheli
+description: Maternal anaemia detection app
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  camera: ^0.10.5+9
+  tflite_flutter: ^0.12.1
+  sqflite: ^2.4.2+1
+  path_provider: ^2.1.5
+  pdf: ^3.12.0
+  printing: ^5.12.0
+  image: ^4.1.7
+  cupertino_icons: ^1.0.2
+  image_picker: ^1.0.7
+  shared_preferences: ^2.5.5
+  flutter_pdfview: ^1.4.4
+  permission_handler: ^12.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/models/anaemia_model.tflite
+    - assets/fonts/NotoSansDevanagari-Regular.ttf
