@@ -116,8 +116,8 @@ Patient History & Referral Slip
 </tr>
 
 <tr>
-<td><img src="screenshots/language.png" width="250"></td>
-<td><img src="screenshots/login.png" width="250"></td>
+<td><img src="screenshots/language.jpeg" width="250"></td>
+<td><img src="screenshots/login.jpeg" width="250"></td>
 </tr>
 
 <tr>
@@ -126,8 +126,8 @@ Patient History & Referral Slip
 </tr>
 
 <tr>
-<td><img src="screenshots/dashboard.png" width="250"></td>
-<td><img src="screenshots/patient_form.png" width="250"></td>
+<td><img src="screenshots/dashboard.jpeg" width="250"></td>
+<td><img src="screenshots/patient_form.jpeg" width="250"></td>
 </tr>
 
 <tr>
@@ -136,8 +136,8 @@ Patient History & Referral Slip
 </tr>
 
 <tr>
-<td><img src="screenshots/result.png" width="250"></td>
-<td><img src="screenshots/history.png" width="250"></td>
+<td><img src="screenshots/result.jpeg" width="250"></td>
+<td><img src="screenshots/history.jpeg" width="250"></td>
 </tr>
 
 <tr>
@@ -146,8 +146,8 @@ Patient History & Referral Slip
 </tr>
 
 <tr>
-<td><img src="screenshots/trend.png" width="250"></td>
-<td><img src="screenshots/referral.png" width="250"></td>
+<td><img src="screenshots/trend.jpeg" width="250"></td>
+<td><img src="screenshots/referral_slip.jpeg" width="250"></td>
 </tr>
 </table>
 
