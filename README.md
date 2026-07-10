@@ -1,9 +1,5 @@
 # 🌸 Saheli – AI-Powered Offline Anaemia Screening
 
-<p align="center">
-  <img src="screenshots/language.png" width="220">
-</p>
-
 <h3 align="center">
 AI-Powered Offline Anaemia Screening using Flutter & TensorFlow Lite
 </h3>
